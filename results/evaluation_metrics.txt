@@ -1,0 +1,1303 @@
+                          precision    recall  f1-score   support
+
+             Keenan Wynn       0.00      0.00      0.00         1
+             .B.G.Steers       0.00      0.00      0.00         1
+            Abel Ferrara       0.00      0.00      0.00         1
+          Abel Ferrara's       0.00      0.00      0.00         1
+              Adam Faith       0.00      0.00      0.00         1
+              Adam Jones       0.00      0.00      0.00         1
+            Adam Sandler       0.00      0.00      0.00         5
+          Adenoid Hynkel       0.00      0.00      0.00         2
+                   Adolf       0.00      0.00      0.00         1
+          Adolf Hitler's       0.00      0.00      0.00         1
+            Adolph Zukor       0.00      0.00      0.00         1
+            Adrien Wilde       0.00      0.00      0.00         1
+       Agusti Villaronga       0.00      0.00      0.00         1
+                   Ahmed       0.00      0.00      0.00         1
+             Aidan Quinn       0.00      0.00      0.00         0
+            Airwolf Mods       0.00      0.00      0.00         1
+              Alan Arkin       0.00      0.00      0.00         2
+            Alan Rickman       0.00      0.00      0.00         2
+             Albert Hall       0.00      0.00      0.00         1
+         Alberto Lattuad       0.00      0.00      0.00         1
+           Alec Guinness       0.00      0.00      0.00         1
+             Alex Frayne       0.00      0.00      0.00         2
+        Alfred Hitchcock       0.00      0.00      0.00         1
+           Alfred Newman       0.00      0.00      0.00         1
+                     Ali       0.00      0.00      0.00         1
+                   Alice       0.00      0.00      0.00         2
+                  Alison       0.00      0.00      0.00         1
+                Alistair       0.00      0.00      0.00         1
+                 Allison       0.00      0.00      0.00         1
+               Almodovar       0.00      0.00      0.00         1
+            Alvin Alexis       0.00      0.00      0.00         1
+           Alyssa Milano       0.00      0.00      0.00         1
+                  Amanda       0.00      0.00      0.00         1
+            Amanda Bynes       0.00      0.00      0.00         2
+                    Amir       0.00      0.00      0.00         1
+                     Amy       0.00      0.00      0.00         1
+             Amy Poehler       0.00      0.00      0.00         1
+                Anderson       0.00      0.00      0.00         1
+          Andie Anderson       0.00      0.00      0.00         1
+         Andie MacDowell       0.00      0.00      0.00         1
+          Andre Braugher       0.00      0.00      0.00         1
+           Andrea Bianch       0.00      0.00      0.00         1
+        Andrei Tarkovsky       0.00      0.00      0.00         1
+            Andrew Davis       0.00      0.00      0.00         1
+                    Andy       0.00      0.00      0.00         1
+             Andy Fastow       0.00      0.00      0.00         1
+            Andy Stitzer       0.00      0.00      0.00         1
+                  Angela       0.00      0.00      0.00         1
+           Angela Molina       0.00      0.00      0.00         1
+                Angelina       0.00      0.00      0.00         1
+          Angelina Jolie       0.00      0.00      0.00         1
+        Angelina Jolie's       0.00      0.00      0.00         1
+               Animatrix       0.00      0.00      0.00         1
+                  Anime.       0.00      0.00      0.00         1
+             Anita Briem       0.00      0.00      0.00         1
+           Anita Corsaut       0.00      0.00      0.00         1
+        Anita Strindberg       0.00      0.00      0.00         2
+              Ann Biller       0.00      0.00      0.00         1
+                    Anne       0.00      0.00      0.00         1
+           Anne Bancroft       0.00      0.00      0.00         1
+            Anne Brontes       0.00      0.00      0.00         1
+     AnneMarie Johnson's       0.00      0.00      0.00         1
+                 Annette       0.00      0.00      0.00         1
+             Annie Belle       0.00      0.00      0.00         1
+         Anthony DeMarco       0.00      0.00      0.00         1
+         Anthony Hopkins       0.00      0.00      0.00         1
+            Anthony Mann       0.00      0.00      0.00         2
+           Anthony Quinn       0.00      0.00      0.00         2
+            Anton Karas'       0.00      0.00      0.00         1
+                 Antonio       0.00      0.00      0.00         1
+               Antonioni       0.00      0.00      0.00         1
+    Archibald Cunningham       0.00      0.00      0.00         1
+                  Arnold       0.00      0.00      0.00         3
+                Arnold's       0.00      0.00      0.00         1
+                  Arthur       0.00      0.00      0.00         2
+            Arthur Askey       0.00      0.00      0.00         1
+       Arthur Huntingdon       0.00      0.00      0.00         1
+             Arthur Lowe       0.00      0.00      0.00         1
+                  Ashoka       0.00      0.00      0.00         1
+          Ashton Kutcher       0.00      0.00      0.00         3
+                   Asoka       0.00      0.00      0.00         1
+                  Atwill       0.00      0.00      0.00         1
+                  Aubrey       0.00      0.00      0.00         1
+                  Averil       0.00      0.00      0.00         1
+                   Award       0.00      0.00      0.00         1
+              Bad Acting       0.00      0.00      0.00         1
+              Baker Hall       0.00      0.00      0.00         1
+                  Bakjwi       0.00      0.00      0.00         2
+                   Bambi       0.00      0.00      0.00         1
+            Barbara Bach       0.00      0.00      0.00         1
+         Barbara Bouchet       0.00      0.00      0.00         2
+         Barbara Rhoades       0.00      0.00      0.00         1
+        Barbara Stanwyck       0.00      0.00      0.00         3
+          Barbara Sukowa       0.00      0.00      0.00         1
+          Barbra Bouchet       0.00      0.00      0.00         1
+                    Barr       0.00      0.00      0.00         2
+               Barrymore       0.00      0.00      0.00         3
+             Barton Fink       0.00      0.00      0.00         1
+          Basic Instinct       0.00      0.00      0.00         1
+                   Basil       0.00      0.00      0.00         1
+          Basil Rathbone       0.00      0.00      0.00         1
+           Bat Masterson       0.00      0.00      0.00         3
+                  Batman       0.00      0.00      0.00         1
+             Beat Street       0.00      0.00      0.00         1
+                  Beaton       0.00      0.00      0.00         1
+               Beautiful       0.00      0.00      0.00         1
+                  Beavis       0.00      0.00      0.00         1
+                 Bellamy       0.00      0.00      0.00         1
+                   Belle       0.00      0.00      0.00         2
+                     Ben       0.00      0.00      0.00         2
+             Ben Affleck       0.00      0.00      0.00         1
+              Ben Barnes       0.00      0.00      0.00         1
+             Ben Chaplin       0.00      0.00      0.00         1
+             Ben Mezrich       0.00      0.00      0.00         1
+             Ben Randall       0.00      0.00      0.00         1
+             Ben Stiller       0.00      0.00      0.00         1
+             Ben stiller       0.00      0.00      0.00         1
+        Benzini Napaloni       0.00      0.00      0.00         1
+                 Beowulf       0.00      0.00      0.00         1
+                 Bergman       0.00      0.00      0.00         1
+             Bette Davis       0.00      0.00      0.00         3
+                  Bettie       0.00      0.00      0.00         1
+                   Betty       0.00      0.00      0.00         1
+                    Bill       0.00      0.00      0.00         1
+              Bill Hicks       0.00      0.00      0.00         1
+               Bill Macy       0.00      0.00      0.00         1
+             Bill Murray       0.00      0.00      0.00         1
+             Bill Paxton       0.00      0.00      0.00         2
+               Bill Pope       0.00      0.00      0.00         1
+              Bill Sikes       0.00      0.00      0.00         2
+                  Billie       0.00      0.00      0.00         1
+               Billy Bob       0.00      0.00      0.00         1
+      Billy Bob Thornton       0.00      0.00      0.00         1
+       Billy Bob Thorton       0.00      0.00      0.00         1
+                   Blade       0.00      0.00      0.00         1
+           Bob Ballard's       0.00      0.00      0.00         1
+              Bob Barker       0.00      0.00      0.00         1
+           Bob Burnquist       0.00      0.00      0.00         2
+                Bob Hope       0.00      0.00      0.00         1
+       Bob Knickerbocker       0.00      0.00      0.00         1
+                  Bogart       0.00      0.00      0.00         1
+                    Boll       0.00      0.00      0.00         3
+                  Bollan       0.00      0.00      0.00         1
+                  Bonnie       0.00      0.00      0.00         1
+             Bonnie Hunt       0.00      0.00      0.00         1
+            Boris Dakota       0.00      0.00      0.00         1
+               Brad Pitt       0.00      0.00      0.00         3
+             Brad Renfro       0.00      0.00      0.00         1
+                  Brandy       0.00      0.00      0.00         2
+              Braveheart       0.00      0.00      0.00         1
+             Bree Turner       0.00      0.00      0.00         1
+           Bree Turner's       0.00      0.00      0.00         1
+          Brenda Vaccaro       0.00      0.00      0.00         1
+                   Bride       0.00      0.00      0.00         1
+           Bridget Fonda       0.00      0.00      0.00         1
+            Brock Lesnar       0.00      0.00      0.00         1
+                Bromwell       1.00      1.00      1.00         1
+           Bromwell High       0.00      0.00      0.00         2
+                  Bronte       0.00      0.00      0.00         1
+                 Brosnan       0.00      0.00      0.00         0
+                   Brown       0.00      0.00      0.00         1
+           Bruce Cambell       0.00      0.00      0.00         1
+          Bruce Campbell       0.00      0.00      0.00         1
+              Bruce Dern       0.00      0.00      0.00         1
+            Bruce Dern's       0.00      0.00      0.00         1
+            Bruce Willis       0.00      0.00      0.00         5
+           Bruno Nicolai       0.00      0.00      0.00         1
+             Bryan Adams       0.00      0.00      0.00         1
+                  Bunuel       0.00      0.00      0.00         2
+                 Burakov       0.00      0.00      0.00         1
+                   Burke       0.00      0.00      0.00         1
+             Burt Gummer       0.00      0.00      0.00         1
+           Burt Reynolds       0.00      0.00      0.00         1
+                    Bush       0.00      0.00      0.00         1
+                  Buster       0.00      0.00      0.00         1
+           Butch Cassidy       0.00      0.00      0.00         1
+             Buzz Aldrin       0.00      0.00      0.00         3
+           Byron Calhoun       0.00      0.00      0.00         1
+         C Thomas Howell       0.00      0.00      0.00         1
+                CJ Stacy       0.00      0.00      0.00         1
+             CONAN DOYLE       0.00      0.00      0.00         1
+                    Caan       0.00      0.00      0.00         1
+                 Camilla       0.00      0.00      0.00         1
+                Campbell       0.00      0.00      0.00         1
+          Candace Bergen       0.00      0.00      0.00         1
+                   Candy       0.00      0.00      0.00         1
+       Captain Wentworth       0.00      0.00      0.00         1
+                   Carey       0.00      0.00      0.00         1
+           Carl Brashear       0.00      0.00      0.00         1
+          Carla Ballenda       0.00      0.00      0.00         1
+           Carlos Mencia       0.00      0.00      0.00         6
+            Carlos Saura       0.00      0.00      0.00         1
+              Carly Pope       0.00      0.00      0.00         1
+              Cary Grant       0.00      0.00      0.00         4
+                   Casey       0.00      0.00      0.00         2
+               Catherine       0.00      0.00      0.00         1
+       Catherine Tramell       0.00      0.00      0.00         1
+                 Cecilia       0.00      0.00      0.00         1
+          Cedric Klapish       0.00      0.00      0.00         1
+                 Celeste       0.00      0.00      0.00         1
+                Celeste        0.00      0.00      0.00         1
+                 Chabert       0.00      0.00      0.00         1
+               Chad Lowe       0.00      0.00      0.00         1
+               Chan-Wook       0.00      0.00      0.00         1
+          Chan-wook Park       0.00      0.00      0.00         5
+        Chan-wook Park's       0.00      0.00      0.00         2
+          Channing Tatum       0.00      0.00      0.00         1
+                 Chaplin       0.00      0.00      0.00         1
+       Charelston Heston       0.00      0.00      0.00         1
+         Charles Dickens       0.00      0.00      0.00         1
+          Charles Higham       0.00      0.00      0.00         1
+         Charlie Chaplin       0.00      0.00      0.00         2
+      Charlotte Arnold's       0.00      0.00      0.00         1
+         Charlton Heston       0.00      0.00      0.00         1
+                   Chazz       0.00      0.00      0.00         1
+           Chelsea Field       0.00      0.00      0.00         1
+                  Cherry       0.00      0.00      0.00         1
+             Chevy Chase       0.00      0.00      0.00         1
+               Chipmunks       0.00      0.00      0.00         1
+            Chloe Franks       0.00      0.00      0.00         1
+             Chris Bruno       0.00      0.00      0.00         1
+            Chris Kattan       0.00      0.00      0.00         1
+          Chris McDonald       0.00      0.00      0.00         1
+              Chris Rock       0.00      0.00      0.00         1
+          Chris Sarandon       0.00      0.00      0.00         1
+           Chris Shadley       0.00      0.00      0.00         1
+            Chris Stokes       0.00      0.00      0.00         1
+             Christopher       0.00      0.00      0.00         1
+       Christopher Nolan       0.00      0.00      0.00         1
+      Christopher Walken       0.00      0.00      0.00         0
+           Chuck Traynor       0.00      0.00      0.00         1
+            Ciaran Hinds       0.00      0.00      0.00         1
+           Claire Carter       0.00      0.00      0.00         1
+          Claire Forlani       0.00      0.00      0.00         1
+            Clancy Brown       0.00      0.00      0.00         1
+             Clara Evans       0.00      0.00      0.00         1
+            Claude Rains       0.00      0.00      0.00         1
+               Claudette       0.00      0.00      0.00         1
+                Claudius       0.00      0.00      0.00         1
+            Clifton Webb       0.00      0.00      0.00         4
+          Clint Eastwood       0.00      0.00      0.00         1
+              Clive Owen       0.00      0.00      0.00         1
+                   Cohen       0.00      0.00      0.00         1
+                 Colbert       0.00      0.00      0.00         2
+             Colm Meaney       0.00      0.00      0.00         1
+                 Connery       0.00      0.00      0.00         1
+          Conrad L. Hall       0.00      0.00      0.00         1
+                 Coppola       0.00      0.00      0.00         1
+                   Corey       0.00      0.00      0.00         1
+                  Cowell       0.00      0.00      0.00         1
+            Craig Brewer       0.00      0.00      0.00         1
+           Craig Sheffer       0.00      0.00      0.00         2
+          Crispen Glover       0.00      0.00      0.00         2
+          Crispin Glover       0.00      0.00      0.00         3
+                   Crowe       0.00      0.00      0.00         1
+            Cuba Gooding       0.00      0.00      0.00         1
+                    Curt       0.00      0.00      0.00         1
+                  Curtis       0.00      0.00      0.00         1
+                  Cusack       0.00      0.00      0.00         1
+                  Custer       0.00      0.00      0.00         1
+          Cécile Ducasse       0.00      0.00      0.00         1
+                   Daffy       0.00      0.00      0.00         2
+                  Dahmer       0.00      0.00      0.00         1
+            Damon Wayans       0.00      0.00      0.00         1
+               Dan Burns       0.00      0.00      0.00         1
+        Dan Castellaneta       0.00      0.00      0.00         1
+              Dan Duryea       0.00      0.00      0.00         2
+              Dan George       0.00      0.00      0.00         1
+              Dan Jansen       0.00      0.00      0.00         1
+                  Dancer       0.00      0.00      0.00         1
+               Dani Behr       0.00      0.00      0.00         1
+               Dani Levy       0.00      0.00      0.00         1
+          Daniel Auteuil       0.00      0.00      0.00         2
+        Daniel Greystone       0.00      0.00      0.00         1
+          Daniel Roebuck       0.00      0.00      0.00         1
+           Daniell Henry       0.00      0.00      0.00         1
+            Danny DeVito       0.00      0.00      0.00         1
+            Danny Tanner       0.00      0.00      0.00         1
+                  Dansen       0.00      0.00      0.00         1
+               Dany Boon       0.00      0.00      0.00         1
+           Darling Nicki       0.00      0.00      0.00         1
+          Darren McGavin       0.00      0.00      0.00         1
+             Darth Vadar       0.00      0.00      0.00         1
+            Daryl Hannah       0.00      0.00      0.00         1
+                   David       0.00      0.00      0.00         1
+           David Beckham       0.00      0.00      0.00         1
+                  Davies       0.00      0.00      0.00         3
+                   Davis       0.00      0.00      0.00         1
+                 DeAndre       0.00      0.00      0.00         1
+                  DeNiro       0.00      0.00      0.00         1
+             Dean Koontz       0.00      0.00      0.00         1
+         Deborah Foreman       0.00      0.00      0.00         1
+              Deep Space       0.00      0.00      0.00         1
+             Deepa Mehta       0.00      0.00      0.00         0
+              Demi Moore       0.00      0.00      0.00         1
+         Denise Richards       0.00      0.00      0.00         1
+             Dennis Hoey       0.00      0.00      0.00         1
+           Dennis Hopper       0.00      0.00      0.00         2
+            Dennis Quaid       0.00      0.00      0.00         2
+          Dennis Spooner       0.00      0.00      0.00         1
+           Desert Island       0.00      0.00      0.00         1
+        Detective Garner       0.00      0.00      0.00         1
+                  Dexter       0.00      0.00      0.00         1
+                   Diane       0.00      0.00      0.00         1
+              Diane Lane       0.00      0.00      0.00         1
+                    Diaz       0.00      0.00      0.00         1
+          Diego Maradona       0.00      0.00      0.00         1
+         Dirk Wittenborn       0.00      0.00      0.00         1
+             Dirty Harry       0.00      0.00      0.00         1
+               Dodsworth       0.00      0.00      0.00         1
+                Dolemite       0.00      0.00      0.00         1
+                Dolittle       0.00      0.00      0.00         1
+          Dolph Lundgren       0.00      0.00      0.00         1
+         Dominique Swain       0.00      0.00      0.00         1
+           Domino Harvey       0.00      0.00      0.00         1
+                     Don       0.00      0.00      0.00         1
+             Dragon Hunt       0.00      0.00      0.00         1
+                    Drew       0.00      0.00      0.00         5
+          Drew Barrymore       0.00      0.00      0.00         5
+                 Dunaway       0.00      0.00      0.00         1
+             Dunk Ernest       0.00      0.00      0.00         1
+          Dustin Hoffman       0.00      0.00      0.00         1
+                Dutchess       0.00      0.00      0.00         1
+                   Dylan       0.00      0.00      0.00         2
+   Eagles Donovan McNabb       0.00      0.00      0.00         1
+               Eccleston       0.00      0.00      0.00         1
+                Ed Burns       0.00      0.00      0.00         1
+               Ed Harris       0.00      0.00      0.00         1
+               Ed Norton       0.00      0.00      0.00         1
+                   Eddie       0.00      0.00      0.00         3
+       Eddie Constantine       0.00      0.00      0.00         1
+            Eddie Izzard       0.00      0.00      0.00         1
+            Eddie Murphy       0.00      0.00      0.00         1
+            Eddie Surkin       0.00      0.00      0.00         1
+           Edgar Kennedy       0.00      0.00      0.00         1
+          Edmond Rackham       0.00      0.00      0.00         2
+            Edmund Gwenn       0.00      0.00      0.00         1
+          Edward Furlong       0.00      0.00      0.00         1
+         Edward Woodward       0.00      0.00      0.00         1
+                  Eilers       0.00      0.00      0.00         1
+                  Elaine       0.00      0.00      0.00         1
+             Elijah Wood       0.00      0.00      0.00         1
+             Elinor Glyn       0.00      0.00      0.00         1
+               Elizabeth       0.00      0.00      0.00         2
+        Elizabeth Hurley       0.00      0.00      0.00         1
+        Elizabeth Taylor       0.00      0.00      0.00         1
+                   Ellen       0.00      0.00      0.00         2
+         Elmer Bernstein       0.00      0.00      0.00         1
+                  Elvira       0.00      0.00      0.00         2
+              Emile Zola       0.00      0.00      0.00         1
+            Emile Zola's       0.00      0.00      0.00         1
+                  Emilio       0.00      0.00      0.00         1
+                   Emily       0.00      0.00      0.00         1
+              Emily Gray       0.00      0.00      0.00         1
+                    Emma       0.00      0.00      0.00         2
+          Emma Woodhouse       0.00      0.00      0.00         1
+                    Eric       0.00      0.00      0.00         2
+            Eric Roberts       0.00      0.00      0.00         1
+             Eric Stoltz       0.00      0.00      0.00         1
+             Erika Kohut       0.00      0.00      0.00         1
+             Errol Flynn       0.00      0.00      0.00         4
+             Ethan Hawke       0.00      0.00      0.00         1
+                   Evans       0.00      0.00      0.00         1
+    Fabrizio Bentivoglio       0.00      0.00      0.00         1
+              Fargoesque       0.00      0.00      0.00         1
+          Farrah Fawcett       0.00      0.00      0.00         1
+              Fassbinder       0.00      0.00      0.00         3
+                Faulkner       0.00      0.00      0.00         2
+                Fay Grim       0.00      0.00      0.00         1
+         Felipe Martinez       0.00      0.00      0.00         1
+                 Fernack       0.00      0.00      0.00         1
+                     Fez       0.00      0.00      0.00         1
+              Fight Club       0.00      0.00      0.00         1
+              First Mate       0.00      0.00      0.00         1
+                  Fisher       0.00      0.00      0.00         1
+            Flash Gordon       0.00      0.00      0.00         1
+                   Flynn       0.00      0.00      0.00         1
+             Frances Bay       0.00      0.00      0.00         1
+                 Francis       0.00      0.00      0.00         1
+         Francis Coppola       0.00      0.00      0.00         1
+                  Franco       0.00      0.00      0.00         1
+         Francois Perrin       0.00      0.00      0.00         1
+                   Frank       0.00      0.00      0.00         1
+           Frank Sinatra       0.00      0.00      0.00         2
+         Franka Pontente       0.00      0.00      0.00         1
+                François       0.00      0.00      0.00         1
+          François Coste       0.00      0.00      0.00         1
+                    Fred       0.00      0.00      0.00         1
+      Frederick Lawrence       0.00      0.00      0.00         1
+                   Freud       0.00      0.00      0.00         1
+          Fräulein Dokto       0.00      0.00      0.00         1
+               Fu Manchu       0.00      0.00      0.00         2
+                  Gaiman       0.00      0.00      0.00         1
+                 Gallien       0.00      0.00      0.00         1
+               Garbitsch       0.00      0.00      0.00         1
+                Garfield       0.00      0.00      0.00         1
+                 Garrett       0.00      0.00      0.00         1
+              Gary Busey       0.00      0.00      0.00         1
+            Gary Busey's       0.00      0.00      0.00         1
+            Gary Sherman       0.00      0.00      0.00         1
+                  Gellar       0.00      0.00      0.00         1
+            Gena Rowland       0.00      0.00      0.00         1
+              Gene Kelly       0.00      0.00      0.00         1
+           Gentleman Jim       0.00      0.00      0.00         1
+           Geoffrey Land       0.00      0.00      0.00         1
+           Geoffrey Rush       0.00      0.00      0.00         1
+                  George       0.00      0.00      0.00         3
+        George A. Romero       0.00      0.00      0.00         1
+ George Armstrong Custer       0.00      0.00      0.00         1
+         George C. Scott       0.00      0.00      0.00         1
+           George Hilton       0.00      0.00      0.00         2
+            George Lucas       0.00      0.00      0.00         1
+           George Orwell       0.00      0.00      0.00         1
+          George Peppard       0.00      0.00      0.00         2
+           George Romero       0.00      0.00      0.00         1
+         George Romero's       0.00      0.00      0.00         1
+          George Sanders       0.00      0.00      0.00         1
+          George Stevens       0.00      0.00      0.00         1
+          George W. Bush       0.00      0.00      0.00         2
+                  Giallo       0.00      0.00      0.00         1
+       Gilbert Gottfried       0.00      0.00      0.00         1
+         Gilbert Markham       0.00      0.00      0.00         1
+     Giovanni Bocaccio's       0.00      0.00      0.00         1
+           Giulia Boschi       0.00      0.00      0.00         1
+             Glenn Close       0.00      0.00      0.00         1
+           Glenn Corbett       0.00      0.00      0.00         1
+                  Glover       0.00      0.00      0.00         1
+                  Godard       0.00      0.00      0.00         1
+                Goldberg       0.00      0.00      0.00         1
+             Goldie Hawn       0.00      0.00      0.00         2
+                 Googles       0.00      0.00      0.00         1
+              Gore Vidal       0.00      0.00      0.00         1
+            Grace Elliot       0.00      0.00      0.00         1
+           Grace Hartman       0.00      0.00      0.00         1
+          Grace Pat Adam       0.00      0.00      0.00         1
+           Graham Greene       0.00      0.00      0.00         1
+          Granted Murphy       0.00      0.00      0.00         1
+                 Grayson       0.00      0.00      0.00         1
+            Greg Kinnear       0.00      0.00      0.00         1
+                 Gregory       0.00      0.00      0.00         1
+           Gretchen Moll       0.00      0.00      0.00         1
+           Griffin Dunne       0.00      0.00      0.00         1
+                  Gruner       0.00      0.00      0.00         1
+               Gunga Din       0.00      0.00      0.00         1
+              Guy Kibbee       0.00      0.00      0.00         1
+              Guy Pierce       0.00      0.00      0.00         1
+             Hal Hartley       0.00      0.00      0.00         1
+              Half Baked       0.00      0.00      0.00         1
+        Halfdan Hussey's       0.00      0.00      0.00         1
+                  Hamlet       0.00      0.00      0.00         2
+             Hammerstein       0.00      0.00      0.00         1
+                     Han       0.00      0.00      0.00         1
+                Han Solo       0.00      0.00      0.00         1
+                   Hanks       0.00      0.00      0.00         2
+             Hans Zimmer       0.00      0.00      0.00         1
+            Harald Zwart       0.00      0.00      0.00         1
+                   Hardy       0.00      0.00      0.00         1
+          Harilal Gandhi       0.00      0.00      0.00         1
+               Harlequin       0.00      0.00      0.00         1
+           Harriet Craig       0.00      0.00      0.00         1
+                   Harry       0.00      0.00      0.00         1
+           Harry Langdon       0.00      0.00      0.00         1
+            Harry Potter       0.00      0.00      0.00         1
+         Harry S. Truman       0.00      0.00      0.00         1
+           Harry Secombe       0.00      0.00      0.00         1
+            Harry Vardon       0.00      0.00      0.00         1
+           Harvey Korman       0.00      0.00      0.00         1
+     Hayden Christenssen       0.00      0.00      0.00         1
+                   Hazel       0.00      0.00      0.00         1
+                   Hearn       0.00      0.00      0.00         1
+            Heath Ledger       0.00      0.00      0.00         1
+             Heavy Metal       0.00      0.00      0.00         1
+                  Hector       0.00      0.00      0.00         1
+          Hector Babenco       0.00      0.00      0.00         1
+                   Heiko       0.00      0.00      0.00         2
+                   Helen       0.00      0.00      0.00         1
+        Helen Huntingdon       0.00      0.00      0.00         1
+            Helen Mirren       0.00      0.00      0.00         1
+                   Henry       0.00      0.00      0.00         3
+           Henry Brandon       0.00      0.00      0.00         1
+             Henry Brown       0.00      0.00      0.00         1
+              Henry King       0.00      0.00      0.00         1
+            Henry Thomas       0.00      0.00      0.00         1
+           Henry Winkler       0.00      0.00      0.00         2
+                 Hepburn       0.00      0.00      0.00         1
+                  Herman       0.00      0.00      0.00         2
+            Hillary Duff       0.00      0.00      0.00         1
+               Hillerman       0.00      0.00      0.00         1
+               Hitchcock       0.00      0.00      0.00         1
+                   Hogan       0.00      0.00      0.00         1
+               Hollywood       0.00      0.00      0.00         1
+                    Holm       0.00      0.00      0.00         1
+                  Holmes       0.00      0.00      0.00         3
+               Homegrown       0.00      0.00      0.00         1
+            Homer Hickam       0.00      0.00      0.00         1
+               Hongsheng       0.00      0.00      0.00         1
+                    Hope       0.00      0.00      0.00         1
+              Hope Davis       0.00      0.00      0.00         1
+                  Hopper       0.00      0.00      0.00         1
+           Howard Hughes       1.00      1.00      1.00         1
+                  Hrabal       0.00      0.00      0.00         1
+      Hubert de Montille       0.00      0.00      0.00         2
+        Huckleberry Finn       0.00      0.00      0.00         1
+            Hugo Weaving       0.00      0.00      0.00         1
+                  Huston       0.00      0.00      0.00         1
+                    Hyde       0.00      0.00      0.00         3
+                   Hyde        0.00      0.00      0.00         1
+                   Hyeon       0.00      0.00      0.00         3
+           Ian McDiarmid       0.00      0.00      0.00         1
+            Ian McKellen       0.00      0.00      0.00         1
+                  Ibéria       0.00      0.00      0.00         1
+                Ice Cube       0.00      0.00      0.00         1
+             Inder Kumar       0.00      0.00      0.00         1
+             Irene Dunne       0.00      0.00      0.00         1
+            Irene Joseph       0.00      0.00      0.00         1
+               Ironheart       0.00      0.00      0.00         1
+              Ito Misaki       0.00      0.00      0.00         1
+                  Izzard       0.00      0.00      0.00         1
+              J. Varhola       0.00      0.00      0.00         1
+                 JESSICA       0.00      0.00      0.00         1
+                    Jack       0.00      0.00      0.00         3
+             Jack Arnold       0.00      0.00      0.00         2
+              Jack Bauer       0.00      0.00      0.00         1
+           Jack Grinnage       0.00      0.00      0.00         1
+            Jack Klugman       0.00      0.00      0.00         1
+             Jack Lemmon       0.00      0.00      0.00         2
+          Jack Nicholson       0.00      0.00      0.00         1
+                  Jackie       0.00      0.00      0.00         1
+        Jackie Burkhardt       0.00      0.00      0.00         1
+             Jackie Chan       0.00      0.00      0.00         1
+           Jackie Cooper       0.00      0.00      0.00         1
+     Jacqueline McKenzie       0.00      0.00      0.00         1
+         Jake Gyllenhaal       0.00      0.00      0.00         1
+                   James       0.00      0.00      0.00         1
+              James Bond       0.00      0.00      0.00         1
+             James Brown       0.00      0.00      0.00         1
+              James Caan       0.00      0.00      0.00         1
+            James Cagney       0.00      0.00      0.00         1
+        James Earl Jones       0.00      0.00      0.00         1
+             James Eaves       0.00      0.00      0.00         1
+            James Spader       0.00      0.00      0.00         1
+           James Stewart       0.00      0.00      0.00         3
+          James Whitmore       0.00      0.00      0.00         1
+             James Woods       0.00      0.00      0.00         3
+                   Jamie       0.00      0.00      0.00         2
+          Jamie Cromwell       0.00      0.00      0.00         1
+        Jamie Lee Curtis       0.00      0.00      0.00         3
+                    Jane       0.00      0.00      0.00         2
+             Jane Austen       0.00      0.00      0.00         1
+            Jane Jansens       0.00      0.00      0.00         1
+            Janet McTeer       0.00      0.00      0.00         2
+           Janine Turner       0.00      0.00      0.00         1
+               Japp  All       0.00      0.00      0.00         1
+                   Jason       0.00      0.00      0.00         2
+         Jason Alexander       0.00      0.00      0.00         1
+            Jason Bourne       0.00      0.00      0.00         2
+               Jason Lee       0.00      0.00      0.00         1
+          Jason Shepherd       0.00      0.00      0.00         1
+          Jason Voorhees       0.00      0.00      0.00         1
+                     Jay       0.00      0.00      0.00         1
+               Jay Adams       0.00      0.00      0.00         1
+            Jay Baruchel       0.00      0.00      0.00         1
+                Jay Leno       0.00      0.00      0.00         1
+                    Jean       0.00      0.00      0.00         1
+            Jean Simmons       0.00      0.00      0.00         1
+          Jean-Marc Barr       0.00      0.00      0.00         1
+                     Jed       0.00      0.00      0.00         1
+                    Jeff       0.00      0.00      0.00         1
+            Jeff Bennett       0.00      0.00      0.00         1
+           Jeffrey Combs       0.00      0.00      0.00         1
+          Jeffrey Dahmer       0.00      0.00      0.00         2
+          Jeffrey DeMunn       0.00      0.00      0.00         1
+         Jekyll and Hyde       0.00      0.00      0.00         1
+           Jenna Jameson       0.00      0.00      0.00         1
+       Jennifer Connelly       0.00      0.00      0.00         1
+          Jennifer Jones       0.00      0.00      0.00         1
+          Jennifer Lopez       0.00      0.00      0.00         1
+     Jennifer McAllister       0.00      0.00      0.00         1
+         Jeremy Clarkson       0.00      0.00      0.00         1
+            Jeremy Irons       0.00      0.00      0.00         1
+          Jeremy Northam       0.00      0.00      0.00         1
+       Jerry Lundergaard       0.00      0.00      0.00         1
+             Jesse James       0.00      0.00      0.00         1
+        Jessica Cauffiel       0.00      0.00      0.00         1
+           Jia Hongsheng       0.00      0.00      0.00         1
+                Jim Beam       0.00      0.00      0.00         1
+               Jim Carey       0.00      0.00      0.00         1
+              Jim Carrey       0.00      0.00      0.00         2
+            Jim Cummings       0.00      0.00      0.00         1
+            Jim Larson's       0.00      0.00      0.00         1
+            Jim Thompson       0.00      0.00      0.00         1
+           Jimmy Stewart       0.00      0.00      0.00         1
+                     Joe       0.00      0.00      0.00         6
+         Joe Dallesandro       0.00      0.00      0.00         3
+             Joe Estevez       0.00      0.00      0.00         1
+             Joe Magtena       0.00      0.00      0.00         1
+               Joe Pesci       0.00      0.00      0.00         1
+                    Joey       0.00      0.00      0.00         4
+                    John       0.00      0.00      0.00         1
+              John Candy       0.00      0.00      0.00         1
+        John Carpenter's       0.00      0.00      0.00         1
+             John Cleese       0.00      0.00      0.00         2
+            John Corbett       0.00      0.00      0.00         2
+             John Denver       0.00      0.00      0.00         1
+               John Ford       0.00      0.00      0.00         1
+            John Gilbert       0.00      0.00      0.00         1
+             John Hickam       0.00      0.00      0.00         1
+             John Hughes       0.00      0.00      0.00         1
+             John Huston       0.00      0.00      0.00         1
+           John Kielty's       0.00      0.00      0.00         1
+             John Lennon       0.00      0.00      0.00         1
+            John Lithgow       0.00      0.00      0.00         1
+           John Williams       0.00      0.00      0.00         0
+                 Johnson       0.00      0.00      0.00         1
+            Jon Bon Jovi       0.00      0.00      0.00         2
+              Jon Fedele       0.00      0.00      0.00         1
+              Jon Voight       0.00      0.00      0.00         1
+      Jonathan Silverman       0.00      0.00      0.00         1
+        Jonathon Freeman       0.00      0.00      0.00         1
+                   Jones       0.00      0.00      0.00         1
+             Josef Fares       0.00      0.00      0.00         4
+                  Joseph       0.00      0.00      0.00         1
+           Joseph Cotton       0.00      0.00      0.00         1
+         Joseph Goebbels       0.00      0.00      0.00         1
+         Joseph Mazzello       0.00      0.00      0.00         1
+            Josh Flitter       0.00      0.00      0.00         1
+                   Josie       0.00      0.00      0.00         1
+          Josie Lawrence       0.00      0.00      0.00         1
+              Jud Nelson       0.00      0.00      0.00         1
+             Judd Nelson       0.00      0.00      0.00         1
+                Jude Law       0.00      0.00      0.00         1
+            Jules Dassin       0.00      0.00      0.00         2
+           Julia Roberts       0.00      0.00      0.00         1
+        Julian Hernandez       0.00      0.00      0.00         1
+                   Julie       0.00      0.00      0.00         1
+           Julie Andrews       0.00      0.00      0.00         1
+             Julie Delpy       0.00      0.00      0.00         1
+             Julie Gayet       0.00      0.00      0.00         1
+        Juliette Binoche       0.00      0.00      0.00         1
+         Justin Kerrigan       0.00      0.00      0.00         1
+                    Kane       0.00      0.00      0.00         2
+             Kane Hodder       0.00      0.00      0.00         1
+   Kannathil Muthamittal       0.00      0.00      0.00         1
+                  Kansas       0.00      0.00      0.00         1
+              Karate Kid       0.00      0.00      0.00         1
+                    Kate       0.00      0.00      0.00         1
+       Katharine Hepburn       0.00      0.00      0.00         1
+         Kathryn Bigelow       0.00      0.00      0.00         1
+             Kathy Bates       0.00      0.00      0.00         2
+                   Katie       0.00      0.00      0.00         1
+                   Keiko       0.00      0.00      0.00         1
+         Keira Knightley       0.00      0.00      0.00         3
+           Kelly LeBrock       0.00      0.00      0.00         1
+          Kelsey Grammer       0.00      0.00      0.00         2
+            Kenneth More       0.00      0.00      0.00         1
+                 Kessler       0.00      0.00      0.00         1
+         Kevin Costner's       0.00      0.00      0.00         1
+            Kevin Tenney       0.00      0.00      0.00         1
+              Kieslowski       0.00      0.00      0.00         3
+                  Kinski       0.00      0.00      0.00         1
+               Kira Reed       0.00      0.00      0.00         1
+           Kirsten Dunst       0.00      0.00      0.00         1
+                   Kitty       0.00      0.00      0.00         2
+       Kitty Wildenbrück       0.00      0.00      0.00         1
+                  Knotts       0.00      0.00      0.00         1
+                    Kong       0.00      0.00      0.00         1
+                  Kotter       0.00      0.00      0.00         1
+      Kris Kristofferson       0.00      0.00      0.00         1
+                 Kristen       0.00      0.00      0.00         1
+                Kristine       0.00      0.00      0.00         1
+         Kristine DeBell       0.00      0.00      0.00         1
+              Kurt Angle       0.00      0.00      0.00         1
+             Kurt Russel       0.00      0.00      0.00         1
+            Kurt Russell       0.00      0.00      0.00         1
+          Kurtwood Smith       0.00      0.00      0.00         1
+               Kusturica       0.00      0.00      0.00         1
+                   Kyoko       0.00      0.00      0.00         1
+                 L'Engle       0.00      0.00      0.00         1
+              LUC BESSON       0.00      0.00      0.00         1
+       Lady Chatterley's       0.00      0.00      0.00         1
+         Lance Henrikson       0.00      0.00      0.00         1
+                   Lando       0.00      0.00      0.00         1
+        Lando Calrissian       0.00      0.00      0.00         1
+              Lane Smith       0.00      0.00      0.00         1
+             Lara Parker       0.00      0.00      0.00         1
+                    Lars       0.00      0.00      0.00         1
+          Lars Von Trier       0.00      0.00      0.00         3
+          Lars von Trier       0.00      0.00      0.00         2
+        Lauen Montgomery       0.00      0.00      0.00         1
+              Laura Dern       0.00      0.00      0.00         1
+            Laura Linney       0.00      0.00      0.00         2
+                  Laurel       0.00      0.00      0.00         1
+      Laurence Fishburne       0.00      0.00      0.00         2
+         Laurence Harvey       0.00      0.00      0.00         1
+                Lawrence       0.00      0.00      0.00         1
+      Lawrence Fishburne       0.00      0.00      0.00         1
+                 Leconte       0.00      0.00      0.00         1
+                  Lemmon       0.00      0.00      0.00         1
+              Lena Endre       0.00      0.00      0.00         1
+                  Lennon       0.00      0.00      0.00         1
+                     Leo       0.00      0.00      0.00         1
+          Leonardo Vetra       0.00      0.00      0.00         2
+                 Leopold       0.00      0.00      0.00         1
+             Les Bronzes       0.00      0.00      0.00         1
+            Leslie Caron       0.00      0.00      0.00         1
+         Lewis Carroll's       0.00      0.00      0.00         1
+                   Libby       0.00      0.00      0.00         1
+       Lieve Schreiber's       0.00      0.00      0.00         1
+                  Lilith       0.00      0.00      0.00         1
+             Lin Macadam       0.00      0.00      0.00         2
+      Lincoln Kilpatrick       0.00      0.00      0.00         2
+                   Linda       0.00      0.00      0.00         1
+          Lindsey McKeon       0.00      0.00      0.00         1
+           Line Producer       0.00      0.00      0.00         1
+            Lloyd Hughes       0.00      0.00      0.00         1
+               Lois Lane       0.00      0.00      0.00         1
+              Lois Smith       0.00      0.00      0.00         1
+           Lola Albright       0.00      0.00      0.00         1
+                   Louis       0.00      0.00      0.00         1
+            Louis Brooks       0.00      0.00      0.00         1
+            Louis Sachar       0.00      0.00      0.00         1
+          Louis Wollheim       0.00      0.00      0.00         1
+                Lovelace       0.00      0.00      0.00         1
+            Lucille Ball       0.00      0.00      0.00         1
+               Lucy Lutz       0.00      0.00      0.00         1
+                  Lugosi       0.00      0.00      0.00         2
+            Luise Rainer       0.00      0.00      0.00         1
+           Luise Rainier       0.00      0.00      0.00         1
+                    Luke       0.00      0.00      0.00         1
+          Luke Skywalker       0.00      0.00      0.00         2
+                    Lutz       0.00      0.00      0.00         1
+                   Lynch       0.00      0.00      0.00         2
+                MAGNOLIA       0.00      0.00      0.00         1
+             Mac Ahlberg       0.00      0.00      0.00         1
+                 Machaty       0.00      0.00      0.00         1
+                 Maclean       0.00      0.00      0.00         1
+                   Maddy       0.00      0.00      0.00         1
+               Madeleine       0.00      0.00      0.00         1
+         Madeleine Engle       0.00      0.00      0.00         1
+       Madeleine L'Engle       0.00      0.00      0.00         1
+         Madeleine Stowe       0.00      0.00      0.00         1
+        Madeline L'Engle       0.00      0.00      0.00         1
+          Madhavi Sharma       0.00      0.00      0.00         1
+                 Madonna       0.00      0.00      0.00         2
+            Maggie Wadey       0.00      0.00      0.00         1
+         Maine Pyar Kiya       0.00      0.00      0.00         1
+                 Malcolm       0.00      0.00      0.00         1
+          Malcolm Shanks       0.00      0.00      0.00         1
+                Mallrats       0.00      0.00      0.00         1
+              Manuel Tur       0.00      0.00      0.00         1
+             Marc Singer       0.00      0.00      0.00         2
+                 Margera       0.00      0.00      0.00         1
+             Maria Braun       0.00      0.00      0.00         1
+           Marian Davies       0.00      0.00      0.00         1
+          Marie Dressler       0.00      0.00      0.00         1
+                 Marilyn       0.00      0.00      0.00         2
+          Marilyn Monroe       0.00      0.00      0.00         2
+           Marina Zudina       0.00      0.00      0.00         1
+            Mario Caiano       0.00      0.00      0.00         1
+       Mario Van Peebles       0.00      0.00      0.00         1
+           Marion Davies       0.00      0.00      0.00         5
+          Mark Dacascus'       0.00      0.00      0.00         1
+          Mark Griffiths       0.00      0.00      0.00         1
+           Mark Sandrich       0.00      0.00      0.00         1
+                 Marlene       0.00      0.00      0.00         1
+        Marquis Changxin       0.00      0.00      0.00         1
+          Marta Belengur       0.00      0.00      0.00         1
+         Martha Plimpton       0.00      0.00      0.00         1
+                  Martin       0.00      0.00      0.00         4
+            Martin Sheen       0.00      0.00      0.00         2
+                 Martino       0.00      0.00      0.00         1
+              Marty Wolf       0.00      0.00      0.00         1
+      Mary Ellen-Trainor       0.00      0.00      0.00         1
+           Mary Pickford       0.00      0.00      0.00         1
+                    Matt       0.00      0.00      0.00         4
+              Matt Damon       0.00      0.00      0.00         1
+            Matt Mochary       0.00      0.00      0.00         1
+             Matt Newton       0.00      0.00      0.00         1
+                 Matthau       0.00      0.00      0.00         2
+          Matthew Modine       0.00      0.00      0.00         1
+           Max Fleischer       0.00      0.00      0.00         1
+           Max Von Sydow       0.00      0.00      0.00         1
+           Max von Sydow       0.00      0.00      0.00         1
+       Maxmillian Kohler       0.00      0.00      0.00         1
+                   Megan       0.00      0.00      0.00         1
+                     Meh       0.00      0.00      0.00         1
+                   Mehta       0.00      0.00      0.00         0
+             Mel Brookes       0.00      0.00      0.00         1
+              Mel Brooks       0.00      0.00      0.00         1
+        Melanie Griffith       0.00      0.00      0.00         1
+                 Melissa       0.00      0.00      0.00         1
+       Melissa Joan Hart       0.00      0.00      0.00         2
+      Melissa Manchester       0.00      0.00      0.00         1
+     Melody Thomas Scott       0.00      0.00      0.00         1
+                Melville       0.00      0.00      0.00         1
+          Melvin Douglas       0.00      0.00      0.00         1
+                  Mencia       0.00      0.00      0.00         2
+                  Mendez       0.00      0.00      0.00         1
+            Meryl Streep       0.00      0.00      0.00         3
+                 Messiah       0.00      0.00      0.00         1
+                 Michael       0.00      0.00      0.00         1
+           Michael Caine       0.00      0.00      0.00         3
+          Michael Callan       0.00      0.00      0.00         1
+          Michael Cimino       0.00      0.00      0.00         1
+         Michael Douglas       0.00      0.00      0.00         1
+         Michael Jackson       0.00      0.00      0.00         1
+          Michael Keaton       0.00      0.00      0.00         1
+           Michael Kelso       0.00      0.00      0.00         1
+        Michael Moriarty       0.00      0.00      0.00         1
+          Michael Powell       0.00      0.00      0.00         1
+        Michael Redgrave       0.00      0.00      0.00         1
+         Michael Ritchie       0.00      0.00      0.00         1
+          Michael Rooker       0.00      0.00      0.00         1
+          Michael Vartan       0.00      0.00      0.00         1
+  Michelangelo Antonioni       0.00      0.00      0.00         1
+        Michelle Johnson       0.00      0.00      0.00         1
+        Michelle Pieffer       0.00      0.00      0.00         1
+      Michelle Rodriguez       0.00      0.00      0.00         1
+           Mick McCleery       0.00      0.00      0.00         1
+          Mickael Curtiz       0.00      0.00      0.00         1
+                   Miike       0.00      0.00      0.00         1
+                    Mike       0.00      0.00      0.00         1
+            Mike Connors       0.00      0.00      0.00         1
+             Mike Damone       0.00      0.00      0.00         1
+              Mike Kopsa       0.00      0.00      0.00         1
+             Mike Meyers       0.00      0.00      0.00         2
+  Mike Nicholas's Closer       0.00      0.00      0.00         1
+          Milano Calibro       0.00      0.00      0.00         1
+              Mill Creek       0.00      0.00      0.00         1
+        Millard Mitchell       0.00      0.00      0.00         1
+                  Millie       0.00      0.00      0.00         1
+                    Milo       0.00      0.00      0.00         1
+                Minnelli       0.00      0.00      0.00         1
+                 Miranda       0.00      0.00      0.00         1
+       Miranda Hollander       0.00      0.00      0.00         1
+      Miranda Richardson       0.00      0.00      0.00         1
+          Miriam Hopkins       0.00      0.00      0.00         1
+           Mischa Barton       0.00      0.00      0.00         2
+             Miss Europe       0.00      0.00      0.00         1
+             Miss Monroe       0.00      0.00      0.00         2
+            Mohamed Majd       0.00      0.00      0.00         1
+                  Monica       0.00      0.00      0.00         2
+                 Montana       0.00      0.00      0.00         1
+                Moreland       0.00      0.00      0.00         1
+                  Morgan       0.00      0.00      0.00         1
+          Morgan Freeman       0.00      0.00      0.00         1
+     Morgan J. Freeman's       0.00      0.00      0.00         1
+                Morsheba       0.00      0.00      0.00         1
+            Mother Mopar       0.00      0.00      0.00         1
+                  Mozart       0.00      0.00      0.00         1
+               Mr Harlin       0.00      0.00      0.00         1
+               Mr Ripper       0.00      0.00      0.00         1
+              Mr. Knotts       0.00      0.00      0.00         1
+               Mr. Wells       0.00      0.00      0.00         1
+               Mrs Kogan       0.00      0.00      0.00         1
+               Ms Xavier       0.00      0.00      0.00         1
+                  Muriel       0.00      0.00      0.00         1
+                  Murphy       0.00      0.00      0.00         2
+               Myrna Loy       0.00      0.00      0.00         1
+                  Myrtle       0.00      0.00      0.00         1
+              Nancy Drew       0.00      0.00      0.00         1
+             Nandita Das       0.00      0.00      0.00         1
+                  Natali       0.00      0.00      0.00         1
+            Natalie Wood       0.00      0.00      0.00         2
+                 Natella       0.00      0.00      0.00         1
+         Nathalie Kelley       0.00      0.00      0.00         1
+     Nathaniel Hawthorne       0.00      0.00      0.00         1
+                Nausicaa       0.00      0.00      0.00         1
+               Ned Kelly       0.00      0.00      0.00         3
+             Neil Labute       0.00      0.00      0.00         2
+           Neil Marshall       0.00      0.00      0.00         1
+              Neil Simon       0.00      0.00      0.00         2
+            Neil Simon's       0.00      0.00      0.00         1
+        Nestor Almendros       0.00      0.00      0.00         1
+                 Newhart       0.00      0.00      0.00         1
+                Nicholas       0.00      0.00      0.00         2
+           Nicholas Cage       0.00      0.00      0.00         1
+               Nicholson       0.00      0.00      0.00         1
+                    Nick       0.00      0.00      0.00         1
+               Nick Cave       0.00      0.00      0.00         2
+            Nick Hammond       0.00      0.00      0.00         2
+            Nicolas Cage       0.00      0.00      0.00         2
+             Nigel Bruce       0.00      0.00      0.00         1
+         Nigel Hawthorne       0.00      0.00      0.00         1
+            Nigel Marvin       0.00      0.00      0.00         1
+              Nina Conti       0.00      0.00      0.00         1
+           Ninza Turtles       0.00      0.00      0.00         1
+        Noble Willingham       0.00      0.00      0.00         1
+                   Nolan       0.00      0.00      0.00         1
+           Norma Shearer       0.00      0.00      0.00         2
+           Norman Gimbel       0.00      0.00      0.00         1
+          Norman Maclean       0.00      0.00      0.00         1
+                   Oakie       0.00      0.00      0.00         1
+                  Oldboy       0.00      0.00      0.00         1
+          Oleg Yankovsky       0.00      0.00      0.00         1
+                  Oliver       0.00      0.00      0.00         2
+             Oliver Reed       0.00      0.00      0.00         1
+            Oliver Stone       0.00      0.00      0.00         2
+          Olivier Gruner       0.00      0.00      0.00         1
+                   Olsen       0.00      0.00      0.00         1
+               Omar Epps       0.00      0.00      0.00         1
+           Orlando Bloom       0.00      0.00      0.00         1
+           Orlando Jones       0.00      0.00      0.00         1
+            Orson Welles       0.00      0.00      0.00         2
+           Orson Welles'       0.00      0.00      0.00         1
+                   Oscar       0.00      0.00      0.00         1
+                    Paco       0.00      0.00      0.00         1
+              Pam Ferris       0.00      0.00      0.00         1
+               Pam Grier       0.00      0.00      0.00         1
+            Pansy Osmond       0.00      0.00      0.00         1
+                    Park       0.00      0.00      0.00         2
+          Park Chan-Wook       0.00      0.00      0.00         1
+          Park Chan-wook       0.00      0.00      0.00         2
+        Park Chun-wook's       0.00      0.00      0.00         1
+            Parker Posey       0.00      0.00      0.00         1
+        Patricia Pepoire       0.00      0.00      0.00         1
+        Patricia Scanlon       0.00      0.00      0.00         1
+       Patrick Warburton       0.00      0.00      0.00         1
+           Patrick White       0.00      0.00      0.00         2
+               Patterson       0.00      0.00      0.00         1
+           Paul Giamatti       0.00      0.00      0.00         1
+            Paul Henreid       0.00      0.00      0.00         1
+             Paul Keenan       0.00      0.00      0.00         1
+              Paul Lukas       0.00      0.00      0.00         1
+            Paul Maclean       0.00      0.00      0.00         1
+               Paul Muni       0.00      0.00      0.00         1
+            Paul Newmans       0.00      0.00      0.00         1
+             Paul Reiser       0.00      0.00      0.00         1
+               Paul Rudd       0.00      0.00      0.00         1
+             Paul Rudd's       0.00      0.00      0.00         1
+           Paul Schrader       0.00      0.00      0.00         1
+        Paul Verhoeven's       0.00      0.00      0.00         1
+            Paul Wendkos       0.00      0.00      0.00         1
+           Paul Williams       0.00      0.00      0.00         1
+                  Paxton       0.00      0.00      0.00         1
+                  Pearce       0.00      0.00      0.00         1
+                    Peet       0.00      0.00      0.00         1
+                   Peggy       0.00      0.00      0.00         1
+            Peggy Pepper       0.00      0.00      0.00         1
+                 Pelagia       0.00      0.00      0.00         1
+          Penny Marshall       0.00      0.00      0.00         1
+           Pete Garrison       0.00      0.00      0.00         1
+               Pete Tong       0.00      0.00      0.00         1
+                   Peter       0.00      0.00      0.00         1
+             Peter Carey       0.00      0.00      0.00         1
+             Peter Dalle       0.00      0.00      0.00         1
+           Peter Jackson       0.00      0.00      0.00         1
+         Peter Jackson's       0.00      0.00      0.00         1
+            Peter Parker       0.00      0.00      0.00         2
+           Peter Ustinov       0.00      0.00      0.00         1
+              Phil Davis       0.00      0.00      0.00         1
+                  Philip       0.00      0.00      0.00         1
+                Phillips       0.00      0.00      0.00         1
+                  Phoebe       0.00      0.00      0.00         1
+            Phoebe Cates       0.00      0.00      0.00         1
+                  Pichel       0.00      0.00      0.00         1
+          Pierce Brosnan       0.00      0.00      0.00         1
+            Piers Morgan       0.00      0.00      0.00         1
+             Please Obey       0.00      0.00      0.00         1
+                    Polo       0.00      0.00      0.00         1
+                   Posey       0.00      0.00      0.00         1
+                    Pray       0.00      0.00      0.00         1
+           Precious Bane       0.00      0.00      0.00         1
+                 Preston       0.00      0.00      0.00         1
+                   Price       0.00      0.00      0.00         1
+                   Priss       0.00      0.00      0.00         1
+                    Prot       0.00      0.00      0.00         1
+               Queen Bee       0.00      0.00      0.00         1
+       Quentin Tarantino       0.00      0.00      0.00         1
+       Quenton Tarantino       0.00      0.00      0.00         1
+            Quincy Jones       0.00      0.00      0.00         1
+               R. Harlin       0.00      0.00      0.00         1
+                    RAMO       0.00      0.00      0.00         1
+                  Rachel       0.00      0.00      0.00         1
+        Rachel Griffiths       0.00      0.00      0.00         1
+        Rachel Portman's       0.00      0.00      0.00         1
+                   Raimi       0.00      0.00      0.00         1
+                Raisouli       0.00      0.00      0.00         2
+           Ralph Bellamy       0.00      0.00      0.00         1
+          Ralph Faulkner       0.00      0.00      0.00         1
+           Ralph Fiennes       0.00      0.00      0.00         1
+                 Ramundo       0.00      0.00      0.00         1
+           Randy Edelman       0.00      0.00      0.00         1
+             Randy Orton       0.00      0.00      0.00         1
+             Randy Quaid       0.00      0.00      0.00         1
+           Randy Quaid's       0.00      0.00      0.00         1
+            Raquel Welch       0.00      0.00      0.00         2
+              Ray Bolger       0.00      0.00      0.00         1
+             Ray Charles       0.00      0.00      0.00         1
+                 Rebecca       0.00      0.00      0.00         1
+          Rebecca Gibney       0.00      0.00      0.00         1
+                 Redford       0.00      0.00      0.00         1
+                  Reeves       0.00      0.00      0.00         1
+           Reggie Malder       0.00      0.00      0.00         1
+                Reggie's       0.00      0.00      0.00         1
+        Reinhold Messner       0.00      0.00      0.00         1
+              Rene Russo       0.00      0.00      0.00         1
+            Renny Harlin       0.00      0.00      0.00         1
+           Renny Harlin        0.00      0.00      0.00         1
+                Rex Reed       0.00      0.00      0.00         1
+              Rhys Ifans       0.00      0.00      0.00         1
+     Richard Barthelmess       0.00      0.00      0.00         1
+     Richard C. Sarafian       0.00      0.00      0.00         1
+            Richard Chen       0.00      0.00      0.00         1
+          Richard Condon       0.00      0.00      0.00         1
+   Richard Dean Anderson       0.00      0.00      0.00         1
+            Richard Gere       0.00      0.00      0.00         2
+         Richard Johnson       0.00      0.00      0.00         2
+            Richard Moll       0.00      0.00      0.00         1
+           Richard Nixon       0.00      0.00      0.00         2
+           Richard Rossi       0.00      0.00      0.00         1
+          Richard Thomas       0.00      0.00      0.00         1
+                    Rick       0.00      0.00      0.00         1
+             Rick Berman       0.00      0.00      0.00         1
+            Ricky Ullman       0.00      0.00      0.00         1
+              Rik Mayall       0.00      0.00      0.00         1
+                   Ringu       0.00      0.00      0.00         2
+                 Ritchie       0.00      0.00      0.00         1
+         Robert Carlylse       0.00      0.00      0.00         1
+          Robert De Niro       0.00      0.00      0.00         1
+           Robert DeNiro       0.00      0.00      0.00         4
+            Robert Evans       0.00      0.00      0.00         2
+           Robert Jordan       0.00      0.00      0.00         1
+  Robert Louis Stevenson       0.00      0.00      0.00         1
+            Robert Morse       0.00      0.00      0.00         1
+          Robert Romanus       0.00      0.00      0.00         1
+          Robert Siodmak       0.00      0.00      0.00         1
+          Robert Tessier       0.00      0.00      0.00         1
+            Robert Z'Dar       0.00      0.00      0.00         1
+            Robin Bailey       0.00      0.00      0.00         1
+              Robin Hood       0.00      0.00      0.00         1
+          Robin Williams       0.00      0.00      0.00         2
+                  Robot,       0.00      0.00      0.00         1
+                  Robson       0.00      0.00      0.00         1
+             Rock Hudson       0.00      0.00      0.00         2
+             Rod LaRoque       0.00      0.00      0.00         1
+             Rod Steiger       0.00      0.00      0.00         1
+            Roger Corman       0.00      0.00      0.00         3
+            Rogert Ebert       0.00      0.00      0.00         1
+              Rolfe Kent       0.00      0.00      0.00         1
+        Romane Bohringer       0.00      0.00      0.00         1
+               Ron Moody       0.00      0.00      0.00         2
+             Ron Palillo       0.00      0.00      0.00         1
+           Ronald Reagan       0.00      0.00      0.00         1
+               Roosevelt       0.00      0.00      0.00         1
+ Rosalind Russell movies       0.00      0.00      0.00         1
+        Rosanna Arquette       0.00      0.00      0.00         1
+          Rosario Dawson       0.00      0.00      0.00         1
+                    Rose       0.00      0.00      0.00         1
+            Rose McGowan       0.00      0.00      0.00         1
+             Rosie Perez       0.00      0.00      0.00         1
+          Ross Partridge       0.00      0.00      0.00         1
+          Rowan Atkinson       0.00      0.00      0.00         1
+             Roy Sheider       0.00      0.00      0.00         1
+           Rupert Graves       0.00      0.00      0.00         2
+                 Russell       0.00      0.00      0.00         1
+       Russell Velazquez       0.00      0.00      0.00         1
+                    Ryan       0.00      0.00      0.00         2
+           Ryan Philippe       0.00      0.00      0.00         1
+          Ryan Phillippe       0.00      0.00      0.00         1
+       SHIRLEY VALENTINE       0.00      0.00      0.00         1
+                 Saadako       0.00      0.00      0.00         1
+                 Sabrina       0.00      0.00      0.00         1
+                  Sadako       0.01      0.83      0.02        18
+         Sadako Yamamura       0.00      0.00      0.00         2
+             Safran Foer       0.00      0.00      0.00         1
+                   Salem       0.00      0.00      0.00         1
+            Sally Eilers       0.00      0.00      0.00         1
+         Sally Kellerman       0.00      0.00      0.00         1
+          Sally Kirkland       0.00      0.00      0.00         1
+             Salman Khan       0.00      0.00      0.00         1
+              Sam Elliot       0.00      0.00      0.00         1
+               Sam Raimi       0.00      0.00      0.00         1
+              Sammo Hung       0.00      0.00      0.00         1
+               Sandler's       0.00      0.00      0.00         1
+                  Sandra       0.00      0.00      0.00         1
+          Sandra Bullock       0.00      0.00      0.00         5
+                    Sang       0.00      0.00      0.00         1
+                  Santos       0.00      0.00      0.00         1
+   Sarah Michelle Gellar       0.00      0.00      0.00         2
+                 Scarman       0.00      0.00      0.00         1
+                Scotland       0.00      0.00      0.00         1
+                   Scott       0.00      0.00      0.00         1
+              Scott Baio       0.00      0.00      0.00         1
+              Scott Wolf       0.00      0.00      0.00         2
+                 Scrooge       0.00      0.00      0.00         2
+                  Seagal       0.00      0.00      0.00         1
+               Sean Bury       0.00      0.00      0.00         1
+            Sean Connery       0.00      0.00      0.00         2
+               Sean Penn       0.00      0.00      0.00         1
+            Sean Pertwee       0.00      0.00      0.00         1
+              Sean Young       0.00      0.00      0.00         1
+            Sean Young's       0.00      0.00      0.00         1
+           Seijun Suzuki       0.00      0.00      0.00         1
+                  Selina       0.00      0.00      0.00         1
+          Seth McFarlane       0.00      0.00      0.00         2
+                 Sextmus       0.00      0.00      0.00         1
+          Seymour Cassel       0.00      0.00      0.00         1
+            Shabana Azmi       0.00      0.00      0.00         2
+           Shafi Inamdar       0.00      0.00      0.00         1
+             Shakespeare       0.00      0.00      0.00         1
+           Shane Meadows       0.00      0.00      0.00         1
+           Shannon Tweed       0.00      0.00      0.00         1
+            Sharon Stone       0.00      0.00      0.00         1
+             Sharon Tate       0.00      0.00      0.00         1
+                   Sheen       0.00      0.00      0.00         1
+          Shelly Winters       0.00      0.00      0.00         1
+                Sheridan       0.00      0.00      0.00         1
+         Sherlock Holmes       0.00      0.00      0.00         1
+             Shia Lebouf       0.00      0.00      0.00         1
+           Shibasaki Kou       0.00      0.00      0.00         1
+          Shirley Knight       0.00      0.00      0.00         1
+          Shirley Temple       0.00      0.00      0.00         1
+                   Short       0.00      0.00      0.00         1
+          Sidney Poitier       0.00      0.00      0.00         1
+                  Siegel       0.00      0.00      0.00         1
+           Sienna Miller       0.00      0.00      0.00         3
+                   Simon       0.00      0.00      0.00         2
+           Simon Oakland       0.00      0.00      0.00         1
+                 Sinatra       0.00      0.00      0.00         3
+                Skerritt       0.00      0.00      0.00         1
+                    Skip       0.00      0.00      0.00         1
+                 Slasher       0.00      0.00      0.00         1
+            Slim Pickens       0.00      0.00      0.00         1
+                   Smith       0.00      0.00      0.00         1
+              Smith Goes       0.00      0.00      0.00         2
+                  Snyder       0.00      0.00      0.00         1
+                Sobiesky       0.00      0.00      0.00         1
+            Sophia Loren       0.00      0.00      0.00         1
+Spaniard Pedro Almodovar       0.00      0.00      0.00         1
+           Spencer Tracy       0.00      0.00      0.00         1
+            Spike Dudley       0.00      0.00      0.00         1
+             Stan Lathan       0.00      0.00      0.00         1
+             Stan Laurel       0.00      0.00      0.00         1
+                Stan Lee       0.00      0.00      0.00         1
+                 Stanley       0.00      0.00      0.00         2
+         Stanley Kubrick       0.00      0.00      0.00         3
+         Starts Zaga Zow       0.00      0.00      0.00         1
+                  Stella       0.00      0.00      0.00         3
+       Stellan Stargaard       0.00      0.00      0.00         1
+               Stephanie       0.00      0.00      0.00         1
+         Stephanie Meyer       0.00      0.00      0.00         1
+            Stephen Chow       0.00      0.00      0.00         1
+         Stephen Dillane       0.00      0.00      0.00         1
+           Stephen Dorff       0.00      0.00      0.00         2
+            Stephen King       0.00      0.00      0.00         1
+         Stephen McNally       0.00      0.00      0.00         1
+             Stephen Rea       0.00      0.00      0.00         1
+                   Steve       0.00      0.00      0.00         1
+            Steve Carell       0.00      0.00      0.00         3
+            Steve Martin       0.00      0.00      0.00         1
+           Steve McQueen       0.00      0.00      0.00         1
+           Steve Purcell       0.00      0.00      0.00         1
+                  Steven       0.00      0.00      0.00         1
+           Steven Seagal       0.00      0.00      0.00         2
+        Steven Soderberg       0.00      0.00      0.00         1
+        Steven Spielberg       0.00      0.00      0.00         1
+                 Stewart       0.00      0.00      0.00         9
+   Study Industrial Arts       0.00      0.00      0.00         1
+             Sunny Davis       0.00      0.00      0.00         1
+            Susan George       0.00      0.00      0.00         2
+             Suzy Parker       0.00      0.00      0.00         2
+            Sweeney Todd       0.00      0.00      0.00         1
+                   Sweet       0.00      0.00      0.00         1
+           Sybil Danning       0.00      0.00      0.00         2
+                   Sydow       0.00      0.00      0.00         1
+               Sylvester       0.00      0.00      0.00         1
+           Takashi Miike       0.00      0.00      0.00         2
+                   Tammy       0.00      0.00      0.00         1
+                  Tantoo       0.00      0.00      0.00         1
+         Tara Fitzgerald       0.00      0.00      0.00         2
+              Tarantinos       0.00      0.00      0.00         2
+                   Tatum       0.00      0.00      0.00         1
+                     Taz       0.00      0.00      0.00         1
+              Ted Danson       0.00      0.00      0.00         1
+                 Temujin       0.00      0.00      0.00         1
+           Terry Gilliam       0.00      0.00      0.00         1
+               Tex Avery       0.00      0.00      0.00         1
+      This Robert Altman       0.00      0.00      0.00         1
+                  Thomas       0.00      0.00      0.00         1
+           Til Schweiger       0.00      0.00      0.00         1
+               Tim Curry       0.00      0.00      0.00         1
+             Tim Robbins       0.00      0.00      0.00         1
+           Tim Thomerson       0.00      0.00      0.00         1
+                Tina Fey       0.00      0.00      0.00         1
+                    Tito       0.00      0.00      0.00         1
+                   Tobel       0.00      0.00      0.00         3
+          Tobey Macguire       0.00      0.00      0.00         2
+           Toby Stephens       0.00      0.00      0.00         4
+              Tom Arnold       0.00      0.00      0.00         1
+               Tom Baker       0.00      0.00      0.00         2
+               Tom Brown       0.00      0.00      0.00         1
+              Tom Cruise       0.00      0.00      0.00         1
+              Tom Hank's       0.00      0.00      0.00         1
+           Tom Hollander       0.00      0.00      0.00         2
+              Tom Savini       0.00      0.00      0.00         1
+           Tom Selleck's       0.00      0.00      0.00         1
+            Tom Skerritt       0.00      0.00      0.00         1
+               Tom Waits       0.00      0.00      0.00         1
+          Tommy Davidson       0.00      0.00      0.00         1
+         Tommy Lee Jones       0.00      0.00      0.00         1
+               Tony Hawk       0.00      0.00      0.00         2
+              Tony Scott       0.00      0.00      0.00         1
+          Tony Zarindast       0.00      0.00      0.00         1
+            Topher grace       0.00      0.00      0.00         1
+        Toyokawa Etsushi       0.00      0.00      0.00         1
+             Traci Lords       0.00      0.00      0.00         1
+                   Trier       0.00      0.00      0.00         4
+                   Troma       0.00      0.00      0.00         1
+                Truffaut       0.00      0.00      0.00         1
+                   Trump       0.00      0.00      0.00         1
+               Tsui Hark       0.00      0.00      0.00         1
+               Tu pa tam       0.00      0.00      0.00         1
+                     Una       0.00      0.00      0.00         2
+           Uncle Kessler       0.00      0.00      0.00         2
+              Urmitz Leo       0.00      0.00      0.00         1
+                   Vader       0.00      0.00      0.00         2
+         Valentina Cervi       0.00      0.00      0.00         1
+           ValerieHarper       0.00      0.00      0.00         1
+             Valley Girl       0.00      0.00      0.00         1
+        Vampire Assassin       0.00      0.00      0.00         1
+         Vampiros Lesbos       0.00      0.00      0.00         3
+                Van Dien       0.00      0.00      0.00         1
+             Van Helsing       0.00      0.00      0.00         1
+             Vander-Geek       0.00      0.00      0.00         1
+               Verhoeven       0.00      0.00      0.00         1
+               Vic Mizzy       0.00      0.00      0.00         1
+                  Victor       0.00      0.00      0.00         1
+            Victor Borge       0.00      0.00      0.00         1
+         Victor E Frankl       0.00      0.00      0.00         1
+         Victor McLaglen       0.00      0.00      0.00         1
+                   Vidor       0.00      0.00      0.00         1
+              Vin Diesel       0.00      0.00      0.00         3
+       Vincent D'Onofrio       0.00      0.00      0.00         1
+        Vincent Massey's       0.00      0.00      0.00         1
+           Vincent Price       0.00      0.00      0.00         1
+         Vincenzo Natali       0.00      0.00      0.00         1
+  Virginia Lucille Jones       0.00      0.00      0.00         1
+               Von Trier       0.00      0.00      0.00         7
+      Walerian Borowczyk       0.00      0.00      0.00         1
+                  Walker       0.00      0.00      0.00         1
+         Walker and Luke       0.00      0.00      0.00         1
+          Walter Matthau       0.00      0.00      0.00         1
+          Walter Pidgeon       0.00      0.00      0.00         2
+                  Watson       0.00      0.00      0.00         2
+                   Watts       0.00      0.00      0.00         1
+             Wayne Coyne       0.00      0.00      0.00         1
+                   Weber       0.00      0.00      0.00         1
+        Wedding Slashers       0.00      0.00      0.00         1
+                Weird Al       0.00      0.00      0.00         1
+                  Welles       0.00      0.00      0.00         1
+                Wellmann       0.00      0.00      0.00         1
+      Werner Henze Simon       0.00      0.00      0.00         1
+           Wesley Snipes       0.00      0.00      0.00         1
+         Wilfred Brimley       0.00      0.00      0.00         1
+               Will Geer       0.00      0.00      0.00         1
+              Will Smith       0.00      0.00      0.00         1
+            Will Spanner       0.00      0.00      0.00         1
+ William Cameron Menzies       0.00      0.00      0.00         1
+          William H Macy       0.00      0.00      0.00         1
+         William H. Macy       0.00      0.00      0.00         1
+          William Haines       0.00      0.00      0.00         2
+          William Holden       0.00      0.00      0.00         1
+            William Macy       0.00      0.00      0.00         1
+   William Shakespeare's       0.00      0.00      0.00         1
+        William Wellmann       0.00      0.00      0.00         1
+           William Wyler       0.00      0.00      0.00         1
+            Willie Green       0.00      0.00      0.00         1
+              Winchester       0.00      0.00      0.00         1
+                    Wolf       0.00      0.00      0.00         1
+               Wyat Earp       0.00      0.00      0.00         1
+              Wyatt Earp       0.00      0.00      0.00         1
+                Yamamoto       0.00      0.00      0.00         1
+         Yevgeny Nourish       0.00      0.00      0.00         1
+                    Yoda       0.00      0.00      0.00         2
+              Young Bull       0.00      0.00      0.00         1
+            Young Sadako       0.00      0.00      0.00         1
+            Yukie Nakama       0.00      0.00      0.00         1
+                  Zarchi       0.00      0.00      0.00         1
+             Zeenat Aman       0.00      0.00      0.00         1
+                Ziga Zow       0.00      0.00      0.00         1
+                    Zoey       0.00      0.00      0.00         1
+                   aesop       0.00      0.00      0.00         1
+       anthony sabato jr       0.00      0.00      0.00         1
+                   arnie       0.00      0.00      0.00         1
+                     bob       0.00      0.00      0.00         2
+            chris kattan       0.00      0.00      0.00         1
+                    gore       0.00      0.00      0.00         1
+                  henson       0.00      0.00      0.00         2
+              jay walker       0.00      0.00      0.00         1
+                   jonny       0.00      0.00      0.00         3
+                   kelso       0.00      0.00      0.00         1
+                  madhur       0.00      0.00      0.00         1
+                  marple       0.00      0.00      0.00         1
+                     max       0.00      0.00      0.00         1
+                mcDonald       0.00      0.00      0.00         1
+               von Trier       0.00      0.00      0.00         2
+
+                accuracy                           0.01      1618
+               macro avg       0.00      0.00      0.00      1618
+            weighted avg       0.00      0.01      0.00      1618
