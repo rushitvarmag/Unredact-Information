@@ -9,57 +9,44 @@ We use a dataset with redacted names and their contexts to train the model. The 
 How the Project is Organized
 Here’s how the files and folders are set up:
 
-bash
-Copy code
 Unredactor_Project/
 ├── data/
-│   └── unredactor.tsv          # Training and validation dataset
+│   └── unredactor.tsv          
 ├── results/
-│   └── evaluation_metrics.txt  # Saves evaluation metrics after validation
+│   └── evaluation_metrics.txt  
 ├── tests/
-│   └── test_unredactor.py      # Unit tests for different parts of the project
-├── unredactor.py               # Main program file
-├── test.tsv                    # Test data for predictions
-├── submission.tsv              # Final output file with predicted names
-├── requirements.txt            # List of Python libraries we need
-└── README.md                   # This file explains the project
-What Each File Does
-unredactor.py: The main Python script that does everything – preprocessing, training, evaluating, and predicting.
-data/unredactor.tsv: The dataset used for training and validation.
-test.tsv: Input test file where names are redacted.
-submission.tsv: The output file with the predicted names.
-results/evaluation_metrics.txt: Stores the results of model evaluation (e.g., precision, recall, F1-score).
-requirements.txt: Lists the Python libraries needed to run the code.
-How to Set Up and Run
+│   └── test_unredactor.py      
+├── unredactor.py              
+├── test.tsv                    
+├── submission.tsv             
+├── requirements.txt           
+└── README.md                   
+
+Set Up and Run
 Step 1: Install Python Libraries
 Before running the project, you need to install some Python libraries. You can do this by running:
 
-bash
-Copy code
+
 pip install -r requirements.txt
 Step 2: Preprocess the Data
 This step cleans up the dataset and gets it ready for training.
 
-bash
-Copy code
+
 python unredactor.py --mode preprocess
 Step 3: Train the Model
 This step trains the model using the training data from unredactor.tsv. It will save the model and vectorizer for later use.
 
-bash
-Copy code
+
 python unredactor.py --mode train
 Step 4: Evaluate the Model
 This step tests how well the model performs on the validation data. It generates evaluation metrics like precision, recall, and F1-score.
 
-bash
-Copy code
+
 python unredactor.py --mode evaluate
 Step 5: Predict Redacted Names
 This step uses the trained model to predict names for the test.tsv file. The results will be saved in submission.tsv.
 
-bash
-Copy code
+
 python unredactor.py --mode predict --input test.tsv --output submission.tsv
 Expected Outputs
 Evaluation Results:
